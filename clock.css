@@ -1,0 +1,18 @@
+body {
+  background-color: #0099cc;
+  max-width: 400px;
+  margin: 15rem auto;
+  text-align: center;
+}
+
+#clock {
+  width: auto;
+  padding: 20px;
+  border: solid 1px #004d66;
+  background-color: #e6f9ff;
+  font-family: Courier new;
+  font-weight: bold;
+  font-size: 40px;
+  position: absolute;
+  border-radius: 20px;
+}
